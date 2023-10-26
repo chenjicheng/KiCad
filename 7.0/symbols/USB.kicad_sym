@@ -9,7 +9,7 @@
     (property "Footprint" "" (at 13.97 -2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "C:\\Users\\test\\Documents\\KiCad\\7.0\\documents\\E72-2G4M20S1E_UserManual_CN_v1.0.pdf" (at 13.97 -2.54 0)
+    (property "Datasheet" "" (at 13.97 -2.54 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_keywords" "connector USB" (at 0 0 0)
