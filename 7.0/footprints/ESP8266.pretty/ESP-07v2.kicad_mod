@@ -67,7 +67,7 @@
   (pad "14" thru_hole oval (at 14 4) (size 2.5 1.1) (drill 0.65 (offset 0.7 0)) (layers "*.Cu" "*.Mask" "F.Paste") (tstamp 23b10ccf-b50a-41aa-9ce7-428379859780))
   (pad "15" thru_hole oval (at 14 2) (size 2.5 1.1) (drill 0.65 (offset 0.7 0)) (layers "*.Cu" "*.Mask" "F.Paste") (tstamp c163575f-eba8-49bd-a3d0-5b2ae1548fe3))
   (pad "16" thru_hole oval (at 14 0) (size 2.5 1.1) (drill 0.65 (offset 0.7 0)) (layers "*.Cu" "*.Mask" "F.Paste") (tstamp c120d810-c21f-4994-9483-c07292677da4))
-  (model "${ESPLIB}/ESP8266.3dshapes/ESP-07v2.wrl"
+  (model "${KICAD_USER_3DMODEL_DIR}/ESP8266.3dshapes/ESP-07v2.wrl"
     (offset (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))
