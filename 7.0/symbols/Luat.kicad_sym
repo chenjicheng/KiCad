@@ -28,7 +28,7 @@
     (symbol "ESP32C3_1_1"
       (rectangle (start -20.32 21.59) (end 19.05 -20.32)
         (stroke (width 0) (type default))
-        (fill (type none))
+        (fill (type background))
       )
       (text "ANTENNA SIDE" (at 0 20.32 0)
         (effects (font (size 1.27 1.27)))
